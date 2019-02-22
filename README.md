@@ -1,3 +1,5 @@
+该项目是一系列小而专注的教程，每个教程都涵盖一个明确的开发领域。大多数教程项目都专注于Spring Framework（和Spring Security）。以下技术是重点：core Java，Jackson，HttpClient，Guava。
+
 
 The "REST with Spring" Classes
 ==============================
